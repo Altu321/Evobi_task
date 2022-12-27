@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Evobi_task/static/css/main.dc6b2ece.css",
+    "main.js": "/Evobi_task/static/js/main.2b410084.js",
+    "static/js/787.74a92158.chunk.js": "/Evobi_task/static/js/787.74a92158.chunk.js",
+    "static/media/cuterobot.jpg": "/Evobi_task/static/media/cuterobot.146eedb86e7210fbec97.jpg",
+    "static/media/eye.jpg": "/Evobi_task/static/media/eye.24206dcdc56121beed24.jpg",
+    "static/media/righteye.jpg": "/Evobi_task/static/media/righteye.24206dcdc56121beed24.jpg",
+    "static/media/smile.jpg": "/Evobi_task/static/media/smile.7722d429000b317f3a7a.jpg",
+    "static/media/logo.svg": "/Evobi_task/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Evobi_task/index.html",
+    "main.dc6b2ece.css.map": "/Evobi_task/static/css/main.dc6b2ece.css.map",
+    "main.2b410084.js.map": "/Evobi_task/static/js/main.2b410084.js.map",
+    "787.74a92158.chunk.js.map": "/Evobi_task/static/js/787.74a92158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc6b2ece.css",
+    "static/js/main.2b410084.js"
+  ]
+}
