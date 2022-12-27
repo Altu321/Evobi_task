@@ -16,7 +16,7 @@ function App() {
           <Route path="/"  exact element={<ScreenOne/>} />
           <Route path="/screenTwo" element={<ScreenTwo/>} />
           <Route path="/screenThree" element={<ScreenThree/>} />
-          <Route path="/screenFour" exact element={<ScreenFour/>} />
+          <Route path="/screenFour"  element={<ScreenFour/>} />
         </Routes>
       </div>
     </BrowserRouter>
