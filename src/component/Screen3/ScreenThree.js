@@ -3,11 +3,12 @@ import React from 'react'
 import "./ScreenThree.css";
 import { rangeStoreVal, display, outerElm } from "../data";
 //import {useHistory} from "react-router-dom"
+import Draggable from 'react-draggable';
 
 
 import { useNavigate } from "react-router-dom";
 
-import Draggable from "react-draggable"; // The default
+// The default
 // import {DraggableCore} from 'react-draggable'; // <DraggableCore>
 // import Draggable, {DraggableCore} from 'react-draggable';
 
