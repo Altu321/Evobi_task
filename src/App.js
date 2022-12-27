@@ -13,7 +13,7 @@ function App() {
     <BrowserRouter>
       <div className="Main-container">
         <Routes>
-          <Route path="/"  exact element={<ScreenOne/>} />
+          <Route path="*"  exact element={<ScreenOne/>} />
           <Route path="/screenTwo" element={<ScreenTwo/>} />
           <Route path="/screenThree" element={<ScreenThree/>} />
           <Route path="/screenFour"  element={<ScreenFour/>} />
