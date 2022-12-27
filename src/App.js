@@ -10,7 +10,7 @@ import ScreenThree from "./component/Screen3/ScreenThree";
 import ScreenFour from "./component/Screen4/ScreenFour";
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/Evobi_task">
       <div className="Main-container">
         <Routes>
           <Route path="*"  exact element={<ScreenOne/>} />
