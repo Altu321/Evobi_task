@@ -1,4 +1,4 @@
-import react, { useState } from "react";
+import React, { useState } from "react";
 import "./ScreenTwo.css";
 import cuterobot from "../../cuterobot.jpg";
 
