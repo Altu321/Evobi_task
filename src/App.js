@@ -1,7 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
-import { BrowserRouter as Router,Route,Routes } from "react-router-dom";
-import { BrowserRouter } from "react-router-dom";
+//import { BrowserRouter as Route,Routes } from "react-router-dom";
+//import { BrowserRouter } from "react-router-dom";
+import { BrowserRouter,Routes,Route } from "react-router-dom";
+
 
 
 import ScreenOne from "./component/Screen1/ScreenOne";
